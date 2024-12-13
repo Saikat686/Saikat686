@@ -25,7 +25,8 @@ My expertise spans:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thesoikatdev/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soikat-dev/)
 [![Mail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:soikat.pciu.cse19@gmail.com)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://soikatdev.netlify.app/)
+[![Website](https://img.shields.io/badge/-Website-4C6E91?style=flat&logo=google-chrome&logoColor=white)](https://soikatdev.netlify.app/)
+
 
 
 
@@ -35,5 +36,5 @@ My expertise spans:
 
 
 
-### 🌟 **"Creativity in Code,Clarity in Data."**  
+### 🌟 **"Creativity in Code, Clarity in Data."**  
 
