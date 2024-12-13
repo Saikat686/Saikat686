@@ -1,4 +1,4 @@
-# Hi there 👋, I'm **Soikat Dev**  
+## Hi there 👋, I'm **Soikat Dev**  
 ### 🚀 Data Engineer & Front-End Web Developer  
 
 I'm a Computer Science & Engineering graduate with a passion for data science and front-end web development. I thrive on transforming complex data into meaningful insights and creating digital experiences that leave a lasting impact. My expertise lies in data analysis, machine learning, and responsive web design, which enables me to craft intuitive websites and develop intelligent solutions. <br> <br>
